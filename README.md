@@ -1,2 +1,2 @@
 # git-exploration
-exercise
+1. Adding Gitignore
